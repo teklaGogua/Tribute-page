@@ -1,0 +1,59 @@
+head {
+    background-color: rgb(230, 230, 230)
+   }
+   div {
+     background-color: white;
+   }
+   main {
+     background-color: rgb(230, 230, 230)
+   }
+   #title {
+     text-align: center;
+     font-size: 50px;
+   }
+  
+   #img-title{
+     text-align: center;
+     font-family: monospace;
+   }
+  
+   #sec-title {
+    text-align: center;
+   }
+  
+   #main {
+    text-align: center;
+   }
+   
+   #img-div {
+    padding: 20px 40px 20px 40px; 
+    text-align: center;
+  }
+   
+  #image {
+     max-width: 100%;
+     height: auto;
+     display: block;
+     margin: auto;
+   } 
+   
+  #img-caption{
+   padding: 20px 40px 20px 40px; 
+   text-align: center;
+  }
+  
+  #tribute-info {
+    padding-left: 120px;
+    padding-right: 100px;
+    padding-bottom: 20px;
+  }
+   
+   .last {
+     padding-left: 90px;
+     padding-right: 70px;
+     padding-bottom: 30px;
+   }
+   
+   #tribute-link {
+     font-size: 20px;
+   }
